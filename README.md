@@ -9,8 +9,8 @@ The makefile has been provided with "all" "clean" "fclean" "re" rule.
 
 USAGE
 
-./push_swap <list of number...>
-./checker [-v] <list of number...>
+./push_swap list of number...                                                                                                      
+./checker [-v] list of number...
 
 EXTRA
 
